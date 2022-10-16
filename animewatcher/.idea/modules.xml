@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/animewatcher.iml" filepath="$PROJECT_DIR$/.idea/modules/animewatcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/animewatcher.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/animewatcher.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/animewatcher.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/animewatcher.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/animewatcher.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/animewatcher.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/animewatcher.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/animewatcher.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
